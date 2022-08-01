@@ -22,6 +22,6 @@
     { "id": 20, "name": "Yellow Plum", "bgColor": "#ffd24d", "textColor": "#000" },
     { "id": 21, "name": "Watermelon", "bgColor": "#008000", "textColor": "#fff" },
     { "id": 22, "name": "Blackcurrant", "bgColor": "#28004d", "textColor": "#fff" },
-    { "id": 23, "name": "Coconut", "bgColor": "#805500", "textColor": "#fff" },
+    { "id": 23, "name": "Coconut", "bgColor": "#805500", "textColor": "#fff" }
   ]
 }
