@@ -1,7 +1,14 @@
 {
   "tags": [
     { "id": 1, "name": "Yellow banana", "bgColor": "#ffff00", "textColor": "#000" },
-    { "id": 2, "name": "Green banana", "bgColor": "#99cc00", "textColor": "#fff" }
-    
+    { "id": 2, "name": "Green banana", "bgColor": "#99cc00", "textColor": "#fff" },
+    { "id": 3, "name": "Orange", "bgColor": "#ffb31a", "textColor": "#fff" },
+    { "id": 4, "name": "Yellow apple", "bgColor": "#e6e600", "textColor": "#000" },
+    { "id": 5, "name": "Green apple", "bgColor": "#99cc00", "textColor": "#fff" },
+    { "id": 6, "name": "Red apple", "bgColor": "#b30000", "textColor": "#fff" },
+    { "id": 7, "name": "Cherry", "bgColor": "#800000", "textColor": "#fff" },
+    { "id": 8, "name": "Strawberry", "bgColor": "#e62e00", "textColor": "#fff" },
+    { "id": 9, "name": "Peach", "bgColor": "#ff9966", "textColor": "#fff" },
+    { "id": 10, "name": "Apricot", "bgColor": "#ffbb33", "textColor": "#fff" }
   ]
 }
